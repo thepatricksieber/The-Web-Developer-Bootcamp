@@ -1,0 +1,25 @@
+/* 
+GENERAL RULE
+selector {
+    property: value;
+}
+*/
+
+/* Element Selector */
+body {
+    background: orange;
+}
+
+li {
+    border: 2px solid blue;
+}
+
+/* ID selector */
+#special {
+    background-color: yellow;
+}
+
+/* Class Selector */
+.completed {
+    text-decoration: line-through;
+}

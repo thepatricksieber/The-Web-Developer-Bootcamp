@@ -1,7 +1,21 @@
 h1 {
     color: purple;
+    /* Create a border */
+    border: 2px solid purple;
 }
 
 li {
     color: green;
+}
+
+h4 {
+    background: rgb(255,100,80);
+}
+
+body {
+/*     background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b8e7bbb-b89a-480e-963b-fc0f6ef2a0d4/d3fdjmd-cd2415d3-3e6f-4989-810b-a42662c2f9b9.jpg/v1/fill/w_900,h_1169,q_75,strp/drawn_wood_grain_texture_by_german_popsicle_d3fdjmd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE2OSIsInBhdGgiOiJcL2ZcLzNiOGU3YmJiLWI4OWEtNDgwZS05NjNiLWZjMGY2ZWYyYTBkNFwvZDNmZGptZC1jZDI0MTVkMy0zZTZmLTQ5ODktODEwYi1hNDI2NjJjMmY5YjkuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.77cW9GQio8dmQEiOLDWrcrYAaJ-POegOJ6YZOgAx78g);
+    background-repeat: no-repeat;
+    background-size: cover; */
+
+    background: pink;
 }
