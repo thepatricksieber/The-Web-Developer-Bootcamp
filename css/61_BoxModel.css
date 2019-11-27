@@ -1,0 +1,23 @@
+p {
+    /* Content - Width and Height */
+    width: 50%;
+    /* height: 300px; */
+
+    /* Border */
+    border: 2px solid blue;
+
+    /* Padding - space between element and border*/
+    /* padding: 10px; */
+    padding-left: 40px;
+
+    /* Margin */
+    /* ALLE SEITEN GLEICH */
+    /* margin: 100px; */
+    
+    /* UNTERSCHIEDLICHE SEITENABSTÄNDE */
+    /* margin: 20px 40px 500px 100px;  */
+
+    /* Margin mit AUTO */
+    /* margin: 0 auto 0 auto; */
+    margin: 0 auto;
+}
